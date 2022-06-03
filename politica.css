@@ -2,6 +2,10 @@ body {
   background-color: #FFFFE8
 } 
 
+h1 {
+text-align: center;
+}
+
 li {
   font-size: 25px;
   font-family: verdana;
